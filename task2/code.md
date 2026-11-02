@@ -43,7 +43,7 @@ Finally, the system displays the monthly electricity bills, total expenditure, a
 
 Copy this code into the Mermaid Live Editor to generate the flowchart.
 
-[Mermaid Live Editor](<https://mermaid.live/?utm_source=chatgpt.com>)
+
 ```mermaid
 flowchart TD
     A([Start]) --> B[Initialize slab rates and charges]
@@ -151,8 +151,3 @@ Average Monthly Bill: Rs. 747.38
 ====================================
 ```
 
-## 6\. Result
-
-Thus, the Progressive Electricity Billing System was successfully implemented using Python. The program calculates electricity bills using multiple consumption slabs, fixed charges, surcharges, and rebates. It also compares electricity bills across multiple months and identifies unusual increases in monthly bills.
-
-**Note:** The tariff rates and charges used in this program are assumed values for academic purposes. Actual electricity tariffs may vary depending on the electricity board.In this you have to write the algorithm,flowchart,python source code,sample input,sample output,and the flow chart in mermaid
