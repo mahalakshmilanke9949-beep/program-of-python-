@@ -87,8 +87,6 @@ Break-Even Registrations = Fixed Cost − Sponsorship divided by Registration Fe
 
 Copy the following code into the Mermaid Live Editor to generate the flowchart.
 
-**Mermaid Live Editor:** [Mermaid Live Editor](<https://mermaid.live/?utm_source=chatgpt.com>)
-
 ```mermaid
 
 flowchart TD
@@ -225,13 +223,9 @@ Financial Deficit: Rs. 2000.0
 ================================================
 ```
 
----
 
-## 6\. Result
 
-Thus, the Campus Event Financial Planning System was successfully implemented using Python.
 
-The program calculates venue, equipment, catering, transportation, and certificate expenses. It determines participant contributions, calculates sponsorship shortfalls, and identifies the minimum number of registrations required to achieve the break-even point.
 
 It also generates a financial report that helps college event organizers plan expenses, manage sponsorships, and make informed financial decisions.
 
