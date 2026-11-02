@@ -152,6 +152,4 @@ Total Eligible Students: 4
 ```
 
 
-## 7\. Result
 
-Thus, the University Scholarship Allocation System was successfully implemented using Python. The program evaluates students based on aggregate marks, subject-wise minimum marks, attendance, and family income. It identifies eligible students, ranks them according to predefined priority rules, and displays the final scholarship allocation list.In this you  have to write the algorithm,flowchart,python sourcecode,sample input,sample output,and the flow chart in mermaid
