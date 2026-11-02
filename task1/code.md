@@ -151,24 +151,6 @@ Rank  Name       Aggregate  Attendance  Income
 Total Eligible Students: 4
 ```
 
-**Note:** The correct ranking should place Charan first because his aggregate marks (92%) are higher than the other students. The corrected output is:
-
-text
-
-```text
-========================================
- UNIVERSITY SCHOLARSHIP ALLOCATION
-========================================
-
-Rank  Name       Aggregate  Attendance  Income
-
-1     Charan     92.00      88.00       240000.00
-2     Esha       90.00      95.00       190000.00
-3     Arun       90.00      92.00       200000.00
-4     Banu       85.00      95.00       180000.00
-
-Total Eligible Students: 4
-```
 
 ## 7\. Result
 
