@@ -55,9 +55,7 @@ Finally, the system displays the patient's details, total bill, concession amoun
 
 ## 3\. Flowchart (Mermaid Code)
 
-Copy this code into the Mermaid Live Editor to generate the flowchart.
-
-[Mermaid Live Editor](<https://mermaid.live/?utm_source=chatgpt.com>
+Copy this code into the Mermaid Live Editor to generate the flowchar
 
 ```mermaid
 flowchart TD
@@ -205,8 +203,3 @@ Total Hospital Collection: Rs. 27800.0
 ==========================================
 ```
 
-## 6\. Result
-
-Thus, the Hospital Billing and Patient Classification System was successfully implemented using Python. The program calculates consultation, diagnostic, and treatment charges, applies conditional concessions, validates billing inputs, and classifies patients according to the predefined payment policy. It also generates individual patient bills and calculates the total hospital collection.
-
-**Note:** All charges, concession percentages, and classification limits are assumed values for academic purposes. Actual hospital billing policies may differ.In this you have to write the algorithm,flowchart,python source code,sample input,samplce output,and the flow chart in mermaid
