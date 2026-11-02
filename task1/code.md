@@ -51,7 +51,6 @@ Finally, the system displays the list of eligible students in rank order.
 
 Copy the following code into the Mermaid Live Editor to generate the flowchart.
 
-[Mermaid Live Editor](<https://mermaid.live/?utm_source=chatgpt.com>)
 ```mermaid
 flowchart TD
     A([Start]) --> B[/Enter number of students/]
