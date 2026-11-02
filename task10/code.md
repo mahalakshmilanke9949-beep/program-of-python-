@@ -227,6 +227,3 @@ Financial Deficit: Rs. 2000.0
 
 
 
-It also generates a financial report that helps college event organizers plan expenses, manage sponsorships, and make informed financial decisions.
-
-**Note:** All costs and registration fees used in this program are assumed values for academic purposes. The program can be modified according to actual campus event requirements.In this you have to write the algorithm,flowchart,python source code,sample input,sample output,and the flow chart in mermaid
